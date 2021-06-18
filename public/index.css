@@ -1,0 +1,43 @@
+.currencies {
+  margin: 0 auto;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+li {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.element {
+  height: 2rem;
+  flex: 1 0 33%;
+  border: 1px solid black;
+}
+
+.value {
+  display: table-cell;
+  vertical-align: middle;
+  padding: 0.5rem;
+  font-size: 14px;
+}
+
+.titles {
+  background-color: lightblue;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.title {
+  flex: 1 0 33%;
+  border: 1px solid black;
+  font-size: 18px;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
