@@ -1,8 +1,8 @@
 **Result:**
 
-![Demonstration](https://github.com/oxtaco/task-tracker/blob/master/image.jpg?raw=true)
+![Demonstration](https://github.com/oxtaco/currency-task/blob/master/image.jpg?raw=true)
 
-`npm i`
+`npm i` <br>
 `npm start`
 
 Go to localhost:3000
